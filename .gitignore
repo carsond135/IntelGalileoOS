@@ -1,0 +1,9 @@
+# Development
+build
+image
+
+# IDE
+.idea
+
+# System
+.DS_Store
